@@ -1,0 +1,5 @@
+<root>
+    <item name='retrofit.RestAdapter'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
